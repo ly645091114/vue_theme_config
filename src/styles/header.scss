@@ -1,0 +1,31 @@
+header {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  top: 0;
+  padding: .7rem 1.5rem;
+  line-height: 2.2rem;
+  box-shadow: 0 0 2px 0 #CCCCCC;
+
+  a {
+    display: inline-block;
+    font-weight: 500;
+    text-decoration: none;
+    .site-name {
+      font-size: 1.3rem;
+      font-weight: 600;
+      color: #2c3e50;
+      position: relative;
+    }
+  }
+  .tools {
+    padding-left: 1.5rem;
+    box-sizing: border-box;
+    white-space: nowrap;
+    font-size: .9rem;
+    position: absolute;
+    right: 4rem;
+    top: .7rem;
+    display: inline-block;
+  }
+}

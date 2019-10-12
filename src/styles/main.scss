@@ -1,0 +1,18 @@
+main {
+  padding-bottom: 2rem;
+  display: block;
+  padding-left: 20rem;
+  padding-top: 3.9rem;
+  .context {
+    max-width: 740px;
+    margin: 0 auto;
+    padding: 2rem 2.5rem;
+  }
+  .eg {
+    padding: 1rem 0;
+    .title {
+      color: $color-primary;
+      margin-bottom: .5rem;
+    }
+  }
+}

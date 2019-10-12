@@ -1,0 +1,22 @@
+.el-menu-item.is-active {
+  color: $color-primary;
+}
+.el-radio__input.is-checked+.el-radio__label {
+  color: $color-primary;
+}
+.el-radio__input.is-checked .el-radio__inner {
+  border-color: $color-primary;
+  background: $color-primary;
+}
+.el-radio__inner:hover {
+  border-color: $color-primary;
+}
+.el-tabs__item.is-active {
+  color: $color-primary;
+}
+.el-tabs__active-bar {
+  background-color: $color-primary;
+}
+.el-input.is-active .el-input__inner, .el-input__inner:focus {
+  border-color: $color-primary;
+}

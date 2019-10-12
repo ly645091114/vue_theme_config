@@ -1,0 +1,8 @@
+$font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'PingFang SC', 'Microsoft YaHei', sans-serif !default; // 字体优先级
+$font-size-base: 14px !default; // 正文信息
+$font-line-height: 1.5 !default; // 字体默认行高
+$color-primary: #1482FF;
+
+:export {
+  theme: $color-primary;
+}
