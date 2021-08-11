@@ -6,9 +6,9 @@
 
 ## 项目描述
 
-该项目以 [Element-UI](https://element.eleme.cn/#/zh-CN) 作为例子进行 (好吧其实是偷懒不想配 webpack， 写组件)
+该项目以 [Element-UI](https://element.eleme.cn/#/zh-CN) 作为例子进行 
 
-功能实现来自于 [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) 看了大佬的实现后再去理解，详细的讲解实现过程
+功能实现来自于 [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) 看了大佬的实现后再去理解
 
 ## 项目启动
 
@@ -29,7 +29,7 @@ npm run serve
 
 - 首先我们要有个大概的思路，要实现主题色的修改我们应该做什么
 
-  1. 当然是获取色值啦（想什么呢）
+  1. 获取色值
 
   2. 然后用新色值替换样式中的旧色值
 
